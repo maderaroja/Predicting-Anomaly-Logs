@@ -17,5 +17,5 @@ This repository consists of the code and results of the final stage of the proce
 Below is a summary of the results in a Confusion Matrix
 
 
-Screen Shot 2022-04-30 at 11.58.11 PM<img width="359" alt="image" src="https://user-images.githubusercontent.com/83246246/166605775-e7bed218-64a4-4a40-8af9-3e9b92cedf5b.png">
+Predicting Log Anomaly<img width="359" alt="image" src="https://user-images.githubusercontent.com/83246246/166605775-e7bed218-64a4-4a40-8af9-3e9b92cedf5b.png">
 
