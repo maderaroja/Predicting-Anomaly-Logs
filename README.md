@@ -1,4 +1,4 @@
-# Predicting-Anomoloy-Logs
+# Predicting-Anomalous-Logs
 
 Machine Learning is helpful in many scenarios. In the current case, which pertains to predicting anomalous log files, I use techniques from Machine Learning to compute the prognostication in question. The log files are from Hadoop Distributed File System (HDFS) and are representative of Big Data as their count goes over 11 million rows of data.  
   
